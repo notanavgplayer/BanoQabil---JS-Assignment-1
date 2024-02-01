@@ -28,7 +28,7 @@ var username;
 
 var myName  = "Taimoor Ahmed";
 
-// Question 8
+// Question 9
 
 var message="Hello World";
 alert(message);
@@ -84,7 +84,8 @@ var quantity = prompt("How much do you want to buy?");
 document.write("<h1>"+visitorName+" ordered "+quantity+" "+productTitle+"(s) on XYZ Clothing Store</h1>")
 
 
-// 18.Declare 3 variables in one statement.
+// Question 18
+
 
 var firstName = "John", lastName = "Doe", age = 25;
 
